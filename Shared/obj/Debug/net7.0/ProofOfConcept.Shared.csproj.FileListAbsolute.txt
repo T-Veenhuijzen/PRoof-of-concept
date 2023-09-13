@@ -1,0 +1,12 @@
+D:\OneDrive\ProofOfConcept\Shared\bin\Debug\net7.0\ProofOfConcept.Shared.deps.json
+D:\OneDrive\ProofOfConcept\Shared\bin\Debug\net7.0\ProofOfConcept.Shared.dll
+D:\OneDrive\ProofOfConcept\Shared\bin\Debug\net7.0\ProofOfConcept.Shared.pdb
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.csproj.AssemblyReference.cache
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.AssemblyInfoInputs.cache
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.AssemblyInfo.cs
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.csproj.CoreCompileInputs.cache
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.dll
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\refint\ProofOfConcept.Shared.dll
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ProofOfConcept.Shared.pdb
+D:\OneDrive\ProofOfConcept\Shared\obj\Debug\net7.0\ref\ProofOfConcept.Shared.dll
